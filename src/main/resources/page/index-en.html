@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+<h1>LunarLogin</h1>
+<a href="/">简体中文</a>
+<h2>Login to your account</h2>
+<a target="_blank"
+   href="https://login.live.com/oauth20_authorize.srf?client_id=00000000402b5328&response_type=code&scope=service::user.auth.xboxlive.com::MBI_SSL&redirect_uri=https%3A%2F%2Flogin.live.com%2Foauth20_desktop.srf">
+    Click to login
+</a>
+<h2>Submit tokenURL</h2>
+<form action="/login" method="get" class="form">
+    <input placeholder="Put tokenURL here" type="url" id="url" name="url">
+    <input type="submit" value="submit">
+</form>
+<h2>FAQ</h2>
+<h3>What is TokenURL</h3>
+After successfully logging in to your Microsoft account, you will be redirected to a white page, the URL of the page is the tokenURL
+</body>
+</html>

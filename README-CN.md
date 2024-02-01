@@ -2,6 +2,8 @@
 
 Lunar客户端外置登录工具
 
+> 弃用! Get [Celestial](https://github.com/CubeWhyMC/celestial) today!
+
 ## 使用
 
 1. 运行 `java -jar LunarLogin-fatjar.jar`

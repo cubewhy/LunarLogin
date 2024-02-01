@@ -2,6 +2,8 @@
 
 [Read in Chinese](README-CN.md)
 
+> Deprecated! Get [Celestial](https://github.com/CubeWhyMC/celestial) today!
+
 LunarClient login tool
 
 ## Using
